@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+transformers
+torch
+joblib
+tkinter
+datasets
+xgboost
+numpy
